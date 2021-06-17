@@ -1,0 +1,217 @@
+@media screen and (max-width: 1199px) {
+    .header-top-line {
+        display: none;
+    }
+    .card .img-wrapp .card-img-txt {
+        font-size: 20px;
+    }
+    .card .img-wrapp .card-img-title {
+        left: 18%;
+        font-size: 20px;
+    }
+    .page-title {
+        margin-top: 7%;
+    }
+    .service-slider .slide-info {
+        top: 44%;
+        left: 4%;
+    }
+    .service-slider .big-txt {
+        top: 38%;
+        left: 6%
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .slide-info {
+        top: 19%;
+        left: 12%;
+        width: 350px;
+    }
+    .slide-info .slide-btn {
+        font-size: 13px;
+        padding: 7px 25px;
+    }
+    .slide-title {
+        font-size: 28px;
+    }
+    .slide-offer {
+        font-size: 17px;
+        color: #fff;
+    }
+    .page-title {
+        margin-top: 8%;
+    }
+    .second-slider .carousel-inner .carousel-item {
+        margin-left: 6%;
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .card .img-wrapp .card-img-txt {
+        left: 16%;
+        font-size: 16px;
+    }
+    .card .img-wrapp .card-img-title {
+        left: 15%;
+        font-size: 16px;
+    }
+    .page-title {
+        margin-top: 9%;
+    }
+    .second-slider .carousel-inner .carousel-item {
+        margin-left: 0;
+        font-size: 19px;
+    }
+    .service-slider .slide-info {
+        top: 37%;
+        left: 14%;
+        width: 500px;
+    }
+    .service-slider .big-txt {
+        top: 33%;
+    }
+    .service-slider .big-txt .slide-offer {
+        font-size: 40px;
+    }
+    .service-slider .slide-offer {
+        font-size: 45px;
+    }
+    .front{
+        width: 400px;
+    }
+    .back{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .slide-info {
+        top: 10%;
+        left: 12%;
+        width: 250px;
+    }
+    .slide-title {
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .slide-offer {
+        font-size: 13px;
+        color: #fff;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-brand img {
+        width: 170px;
+    }
+    .nav-item .btn {
+        font-size: 12px;
+    }
+    .card .img-wrapp .card-img-txt {
+        left: 17%;
+        font-size: 12px;
+    }
+    .card .img-wrapp .card-img-title {
+        left: 15%;
+        font-size: 12px;
+    }
+    .service-slider .slide-info {
+        top: 37%;
+        left: 22%;
+        width: 300px;
+    }
+    .service-slider .slide-info .slide-offer {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .first-slide .slide-offer {
+        font-size: 12px;
+    }
+    .slide-info .slide-btn {
+        font-size: 12px;
+        padding: 5px 20px;
+    }
+    .page-title {
+        margin-top: 12%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .who {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: left;
+        padding-left: 40px;
+    }
+    .card .img-wrapp .card-img-txt {
+        left: 22%;
+        font-size: 35px;
+    }
+    .card .img-wrapp .card-img-title {
+        left: 17%;
+        font-size: 35px;
+    }
+    .slider {
+        margin-top: 25%;
+    }
+    .page-title {
+        margin-top: 12%;
+    }
+}
+
+@media screen and (max-width: 471px) {
+    .page-title {
+        margin-top: 15%;
+    }
+    .service-slider .slide-info {
+        top: 37%;
+        left: 16%;
+    }
+    .service-slider .slide-info .slide-offer {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 461px) {
+    .page-title {
+        margin-top: 25%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .slide-title {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .slide-offer {
+        font-size: 10px;
+    }
+    .first-slide .slide-offer {
+        font-size: 10px;
+    }
+    .slide-info .slide-btn {
+        font-size: 9px;
+        padding: 4px 10px;
+    }
+    .card .img-wrapp .card-img-txt {
+        left: 23%;
+        font-size: 25px;
+    }
+    .card .img-wrapp .card-img-title {
+        left: 19%;
+        font-size: 25px;
+    }
+    .page-title {
+        margin-top: 30%;
+    }
+    .front{
+        width: 320px;
+    }
+    .back{
+        width: 320px;
+    }
+}
